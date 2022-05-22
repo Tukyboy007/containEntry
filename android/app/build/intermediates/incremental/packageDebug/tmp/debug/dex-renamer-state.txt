@@ -1,0 +1,4 @@
+#Sun May 22 17:13:20 ULAT 2022
+base.0=C\:\\Users\\Administrator\\Desktop\\androidProject\\RN-Tutorial-Main-RN-Tutorial-17\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
